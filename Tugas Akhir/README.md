@@ -1,2 +1,2 @@
 # imgclass-mitbih-arrhythmia
-Internsip II M-Rizky
+Tugas Akhir M. Rizky
