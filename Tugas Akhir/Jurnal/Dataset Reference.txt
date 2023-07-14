@@ -1,0 +1,15 @@
+Title - ECG-Based Arrhythmia Classification using Recurrent Neural Networks in Embedded Systems
+Page - 3474
+Section - 2.1 Dataset
+
+Title - Investigating Cardiac Arrhythmia in ECG using Random Forest Classification
+Page - 32
+Section - 2. Literature Review
+
+Title - Contemplate on ECG signals and classification of arrhythmia signals using CNN-LSTM deep learning model
+Page - 4
+Section - 3. Proposed hybrid CNN-LSTM model - a) Input Data
+
+Title - Arrhythmia Classification with ECG signals based on the Optimization-Enabled Deep Convolutional Neural Network
+Page - 13 - 26
+Section - 4.1 Database Used - Daftar Pustaka [30]
